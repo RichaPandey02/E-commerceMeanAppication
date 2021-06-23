@@ -1,0 +1,15 @@
+//you need to install these also
+
+npm install express
+npm install cors
+npm install body-parser
+npm install mongoose
+
+
+1)- npm i dotenv
+2)-npm i morgan(we can use this for checking which type of http request is
+ coming rom the frontend)
+ 3)-npm i mongoose
+ 4)-npm i bcryptjs
+ 5)-npm i jsonwebtoken
+ 6)-npm i express-jwt
